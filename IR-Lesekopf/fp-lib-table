@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Miscellaneous")(type "KiCad")(uri "/Users/markus/GitHub/Elektronik/KiCAD-Libraries-Footprints/Miscellaneous.pretty/Miscellaneous.pretty")(options "")(descr ""))
+)
